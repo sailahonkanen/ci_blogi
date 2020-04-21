@@ -2,4 +2,4 @@
 Blogi
 ###################
 
-![](Blogi.gif)
+![](https://github.com/sailahonkanen/ci_blogi/blob/master/Blogi.gif)
